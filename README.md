@@ -396,7 +396,7 @@ A utilização da ferramenta foi realizada como apoio ao desenvolvimento e à ap
 
 ## 9. Vídeo demonstrativo
 
-**Link do vídeo:** [(https://www.youtube.com/watch?v=-UEgoAvi1Nw)]
+**Link do vídeo:** https://youtu.be/AFOR9k9MLUs
 
 O vídeo demonstrativo apresenta a execução da função por evento, as chamadas HTTP e o experimento de timeout, conforme solicitado na atividade.
 
