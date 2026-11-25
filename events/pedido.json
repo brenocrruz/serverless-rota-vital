@@ -1,0 +1,1 @@
+{"httpMethod":"POST","path":"/guias","body":"{\"requisicaoId\":\"R-001\",\"hospital\":\"H-Recife\",\"bolsas\":[\"O-NEG-0142\"]}"}
